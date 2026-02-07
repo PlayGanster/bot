@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Токен бота от @BotFather
-TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN", "8530812598:AAHIhDOxmewQe9Rhb4pCkBIhpnDA9FG2edM")
+TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN", "8539797610:AAH_LqZwUvy3Vh_Q4xU15b_ya0UBzEcJJfA")
 
 # Ссылки для воронки
 CHANNEL_ID = os.getenv("CHANNEL_ID", "@your_free_channel") # Бесплатный канал
